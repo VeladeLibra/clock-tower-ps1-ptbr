@@ -15,7 +15,7 @@ A tradução PT-BR nasceu dessa vontade antiga. É um projeto de fã feito com d
 
 ## 🎮 Sobre a tradução
 
-A V18 reúne o trabalho anterior de tradução e as últimas correções de apresentação do menu:
+A Tradução reune a apresentação do menu:
 
 - Diálogos e textos dos menus traduzidos para português brasileiro.
 - Conteúdo traduzido da abertura e dos finais conforme a base aprovada do projeto.
