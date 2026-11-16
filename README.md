@@ -26,7 +26,7 @@ A Tradução reune a apresentação do menu:
 - Criação de uma **cópia traduzida separada**, preservando o BIN original.
 - Crédito **Traduzido por VeladeLibra**.
 
-**Estado:** o autor informou que o instalador e o menu V18 foram testados com sucesso no DuckStation. Outras configurações podem não ter sido testadas.
+**Estado:** Foi testado com sucesso no DuckStation. Outras configurações podem não ter sido testadas.
 
 ## 📥 Download
 
