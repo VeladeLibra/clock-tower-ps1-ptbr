@@ -1,0 +1,18 @@
+# Imagens do jogo original ou traduzidas
+*.bin
+*.iso
+*.img
+*.cue
+*.chd
+*.pbp
+
+# BIOS e dumps
+*.rom
+*.dump
+*.dmp
+
+# Builds locais
+build/
+dist/
+__pycache__/
+*.pyc
